@@ -1,5 +1,5 @@
 {
-    "id": "c96a06ff3bb88d8dc92ba7da66bc47ff",
+    "id": "2bbc6a3f12ccce24fbd1f24352e9e01d",
     "name": "Shopping.com",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "11b3af7a655a4a807936c1f7a915aba7",
+            "id": "b758f848b268fa83eb15f23815ef380d",
             "name": "",
             "url": "httpssandbox.api.shopping.com\/publisher\/3.0\/rest\/\/GeneralSearch",
             "description": "",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "c96a06ff3bb88d8dc92ba7da66bc47ff",
+            "collectionId": "2bbc6a3f12ccce24fbd1f24352e9e01d",
             "rawModeData": ""
         },
         {
-            "id": "6bb895cced87d4cd95cdfac2e9e3347f",
+            "id": "2aa459c0a08708a92dce9b58748a452c",
             "name": "",
             "url": "httpssandbox.api.shopping.com\/publisher\/3.0\/rest\/\/GeneralSearch",
             "description": "Searches for products by offer. See API docs for request parameters\/format.",
@@ -137,11 +137,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "c96a06ff3bb88d8dc92ba7da66bc47ff",
+            "collectionId": "2bbc6a3f12ccce24fbd1f24352e9e01d",
             "rawModeData": ""
         },
         {
-            "id": "9fa19c33e5118fcd5903e68c682a1783",
+            "id": "cd12dd843788767bcad7cef029a5a5ac",
             "name": "",
             "url": "httpssandbox.api.shopping.com\/publisher\/3.0\/rest\/\/CategoryTree",
             "description": "",
@@ -160,11 +160,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "c96a06ff3bb88d8dc92ba7da66bc47ff",
+            "collectionId": "2bbc6a3f12ccce24fbd1f24352e9e01d",
             "rawModeData": ""
         },
         {
-            "id": "f11b723113abe8a2d664169d14ce44fb",
+            "id": "43e1ef91469d9b2d464fca30d42a28c2",
             "name": "",
             "url": "httpssandbox.api.shopping.com\/publisher\/3.0\/rest\/\/CategoryTree",
             "description": "Returns information on a single category (e.g. name) or the relationship hierarchy between categories.",
@@ -198,7 +198,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "c96a06ff3bb88d8dc92ba7da66bc47ff",
+            "collectionId": "2bbc6a3f12ccce24fbd1f24352e9e01d",
             "rawModeData": ""
         }
     ]
